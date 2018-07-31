@@ -1,5 +1,4 @@
 {
-  "name": "araines/serverless-php",
   "description": "Boilerplate project for Serverless Framework and PHP",
   "type": "project",
   "autoload": {
